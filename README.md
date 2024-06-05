@@ -26,13 +26,12 @@ You can install the required libraries using pip:
 ## Usage
 
 1. Clone the Repository:
-   ``` git clone https://github.com/Kyalo-oss/movielens-recommendetion-system.git
-cd movielens-recommender-system ```
+   ``` git clone https://github.com/Kyalo-oss/movielens-recommendation-system.git ```
 
 2. Run the Jupyter Notebook:
 Open the `Movielens_solution.ipynb` notebook using Jupyter and execute the cells to reproduce the analysis and model training.
 
-3.Generate Recommendations:
+3. Generate Recommendations:
 Modify the user_id in the notebook to get movie recommendations for a specific user.
 
 ## Results
