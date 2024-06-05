@@ -13,11 +13,11 @@ The project includes the following steps:
 ## Installation
 To run the notebook, you need to have Python installed along with the following libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-surprise
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-surprise
 
 You can install the required libraries using pip:
 
@@ -38,21 +38,22 @@ Modify the user_id in the notebook to get movie recommendations for a specific u
 ## Results
 The trained model achieved the following evaluation metrics:
 
-RMSE: 0.87
-MAE: 0.68
-R-squared: 0.3916
+- RMSE: 0.87
+- MAE: 0.68
+- R-squared: 0.3916
+  
 The top 10 movie recommendations for user 5 are:
 
-Brazil (1985)
-Annie Hall (1977)
-This Is Spinal Tap (1984)
-Magnolia (1999)
-Ed Wood (1994)
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)
-A Clockwork Orange (1971)
-Heathers (1989)
-Roger & Me (1989)
-Blood Simple (1984)
+1. Brazil (1985)
+2. Annie Hall (1977)
+3. This Is Spinal Tap (1984)
+4. Magnolia (1999)
+5. Ed Wood (1994)
+6. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)
+7. A Clockwork Orange (1971)
+8. Heathers (1989)
+9. Roger & Me (1989)
+10. Blood Simple (1984)
 
 ## Contributing
 
