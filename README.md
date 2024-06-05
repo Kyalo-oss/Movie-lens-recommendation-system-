@@ -4,11 +4,11 @@ This repository contains a collaborative filtering recommender system for movie 
 ## Project Overview
 The project includes the following steps:
 
-**Data Loading and Preprocessing:** Loading MovieLens dataset and preparing it for analysis.
-**Exploratory Data Analysis (EDA):** Understanding the dataset through various statistical measures and visualizations.
-**Model Training:** Using the Surprise library to train a collaborative filtering model (KNNBasic and SVD).
-**Model Evaluation:** Evaluating the model's performance using metrics like RMSE, MAE, and R-squared.
-**Generating Recommendations:** Providing top 10 movie recommendations for a specific user.
+1. **Data Loading and Preprocessing:** Loading MovieLens dataset and preparing it for analysis.
+2. **Exploratory Data Analysis (EDA):** Understanding the dataset through various statistical measures and visualizations.
+3. **Model Training:** Using the Surprise library to train a collaborative filtering model (KNNBasic and SVD).
+4. **Model Evaluation:** Evaluating the model's performance using metrics like RMSE, MAE, and R-squared.
+5. **Generating Recommendations:** Providing top 10 movie recommendations for a specific user.
 
 ## Installation
 To run the notebook, you need to have Python installed along with the following libraries:
